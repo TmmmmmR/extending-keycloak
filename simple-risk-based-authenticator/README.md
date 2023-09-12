@@ -1,6 +1,4 @@
-# Examples for Chapter 13 - Extending Keycloak
-
-## Simple Risk-Based Authenticator
+# Extending Keycloak : Simple Risk-Based Authenticator
 
 To build this project, execute the following command:
 
