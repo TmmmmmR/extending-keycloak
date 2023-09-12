@@ -1,6 +1,4 @@
-# Examples for Chapter 13 - Extending Keycloak
-
-## Themes
+# Extending Keycloak : Themes
 
 To build this project, execute the following command:
 
