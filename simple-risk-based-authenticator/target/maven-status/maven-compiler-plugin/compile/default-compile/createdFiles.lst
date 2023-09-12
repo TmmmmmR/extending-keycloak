@@ -1,0 +1,3 @@
+org/keycloak/example/authentication/MySimpleRiskBasedAuthenticator.class
+org/keycloak/example/authentication/MySimpleRiskBasedAuthenticatorFactory.class
+org/keycloak/example/authentication/MySimpleRiskBasedAuthenticator$RiskScore.class
